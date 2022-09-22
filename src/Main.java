@@ -143,11 +143,11 @@ int yearDenis = denis * 12;
 int yearKristina = kristina * 12;
 
 float mashaDifference = mashaUp - yearMasha;
-System.out.println("Годовой доход вырос у Маши на   " + mashaDifference + "  рублей");
+System.out.println("Годовой доход вырос у Маши на   " + mashaDifference + "   рублей");
 float denisDifference = denisUp - yearDenis;
-System.out.println("Годовой доход вырос у Дениса на   " + denisDifference + "  рублей");
+System.out.println("Годовой доход вырос у Дениса на   " + denisDifference + "   рублей");
 float kristinaDifference = kristinaUp - yearKristina;
-System.out.println("Годовой доход вырос у Дениса на   " + kristinaDifference + "  рублей");
+System.out.println("Годовой доход вырос у Дениса на   " + kristinaDifference + "   рублей");
 
 
 }
